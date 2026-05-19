@@ -1,0 +1,22 @@
+# MATLAB
+*.m~
+*.mat
+*.asv
+*.slxc
+*.slx~
+*.mlx~
+*.fig
+*.mex*
+*.p
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.temp
