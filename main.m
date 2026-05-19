@@ -1,4 +1,4 @@
-filename = 'mfjs01-A.txt'; % 数据文件名    
+filename = 'mk01-A.txt'; % 数据文件名    
 % 读取数据
 [job_data, machine_data, fixture_data, fixture_times, num_jobs, num_machines, num_fixture_types, total_operations] = read_production_data(filename);
 
